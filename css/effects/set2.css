@@ -124,7 +124,8 @@
 
 	word-spacing: -0.15em;
 
-	font-weight:400; color:#FFF;
+	font-weight:500; color:#FFF(72, 5, 5);
+
 
 }
 
@@ -305,7 +306,7 @@ figure.effect-oscar:hover figcaption {
 
 figure.effect-oscar:hover img {
 
-	opacity: 0.4;
+	opacity: 0.2;
 
 }
 
